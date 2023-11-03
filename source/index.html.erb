@@ -1,4 +1,4 @@
-<% if DateTime.now.strftime("%m") != 12 %>
+<% if DateTime.now.strftime("%m") == 12 %>
   <h1>
     Birthmas<br>
     Day <%= DateTime.now.strftime("%d") %>
@@ -25,5 +25,5 @@
   </section>
 
 <% else %>
-  <h1>Coming Soon...</h1>
+  <h1>Birthmas<br>Coming Soon...</h1>
 <% end %>
