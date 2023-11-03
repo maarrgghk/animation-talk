@@ -1,0 +1,126 @@
+list:
+
+  - present_title: "Meal out"
+    day: 1
+    present_text: "Welcome to Birthmas, you're in for a treat! For day number one, we're going to eat!"
+
+  - present_title: "Lindor"
+    day: 2
+    present_text: "I think the next gift is the best one yet. Whatever you do, don't get it wet..."
+
+  - present_title: "Gizmo decoration"
+    day: 3
+    present_text: ""
+
+  - present_title: "Mug"
+    day: 4
+    present_text: ""
+
+  - present_title: "Bubblegum Bottles"
+    day: 5
+    present_text: ""
+
+  - present_title: "Movie Night"
+    day: 6
+    present_text: ""
+
+  - present_title: "Earrings"
+    day: 7
+    present_text: ""
+
+  - present_title: "---"
+    day: 8
+    present_text: ""
+
+  - present_title: "Lucias"
+    day: 9
+    present_text: "Return to the place that you lived in for years. A day out in York & a meal at Lucias"
+
+  - present_title: "Pringles"
+    day: 10
+    present_text: "Yesterday's present just cannot be topped. But when you eat the next one you just won't stop"
+
+  - present_title: ""
+    day: 11
+    present_text: ""
+
+  - present_title: "McDate"
+    day: 12
+    present_text: "I know that we're trying to lose some weight. But what if today we have a McDate?"
+
+  - present_title: ""
+    day: 12
+    present_text: ""
+
+  - present_title: "Tiramisu"
+    day: 14
+    present_text: "What is the best way of staying alert? A high dose of a caffeine in a tasty dessert!"
+
+  - present_title: "Xmas Jumper"
+    day: 15
+    present_text: "Adrenaline in my soul, every thought out of control"
+
+  - present_title: ""
+    day: 16
+    present_text: ""
+
+  - present_title: "Seychelles Bauble"
+    day: 17
+    present_text: "This little gift is sure to delight. It's small and it's fragrant, and suitably white!"
+
+  - present_title: ""
+    day: 18
+    present_text: ""
+
+  - present_title: ""
+    day: 19
+    present_text: ""
+
+  - present_title: ""
+    day: 20
+    present_text: ""
+
+  - present_title: "Candle"
+    day: 21
+    present_text: "This is the one gift I may not get right. I guess we'll find out when you set it alight"
+
+  - present_title: "Pink Moscato"
+    day: 22
+    present_text: "I hope that your last week has been fine. What says Friday better than wine?"
+
+  - present_title: ""
+    day: 23
+    present_text: ""
+
+  - present_title: ""
+    day: 24
+    present_text: ""
+
+  - present_title: "Christmas"
+    day: 25
+    present_text: "Merry Christmas! Birthmas has a day off today"
+
+  - present_title: ""
+    day: 26
+    present_text: ""
+
+  - present_title: ""
+    day: 27
+    present_text: ""
+
+  - present_title: ""
+    day: 28
+    present_text: ""
+
+  - present_title: "Neon Sign"
+    day: 29
+    present_text: "As you enter your thirties, I'll give you a trick. Always keep smiling, and don't be a dick!"
+
+  - present_title: "Hangover kit"
+    day: 30
+    present_text: "I expect that this morning you'll be feeling like shit. Luckily Birthmas does hangover kits"
+
+  - present_title: "So that was Birthmas, I hope that it rocked! But what set of presents doesn't have socks?!"
+    day: 31
+    present_text: "Socks"
+

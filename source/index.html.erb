@@ -1,0 +1,29 @@
+<% if DateTime.now.strftime("%m") != 12 %>
+  <h1>
+    Birthmas<br>
+    Day <%= DateTime.now.strftime("%d") %>
+  </h1>
+  <% data.presents.list.each do |present| %>
+    <% if DateTime.now.strftime("%d").to_i == present.day %>
+      <details class="gift gift--large">
+        <summary class="gift__lid"><%= present.day %></summary>
+        <div class="gift__inside"><em><%= present.present_text %></em></div>
+      </details>
+    <% end %>
+  <% end %>
+
+  <h2>Previous gifts</h2>
+  <section class="old-gifts">
+    <% data.presents.list.each do |present| %>
+      <% if DateTime.now.strftime("%d").to_i > present.day %>
+        <details class="gift">
+          <summary class="gift__lid"><%= present.day %></summary>
+          <div class="gift__inside"><sup><%= present.present_title %></sup></div>
+        </details>
+      <% end %>
+    <% end %>
+  </section>
+
+<% else %>
+  <h1>Coming Soon...</h1>
+<% end %>
