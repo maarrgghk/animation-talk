@@ -6,27 +6,27 @@ list:
 
   - present_title: "Lindor"
     day: 2
-    present_text: "I think the next gift is the best one yet. Whatever you do, don't get it wet..."
+    present_text: "We welcome you back to Birthmas day 2! A box full of spheres is your chocolatey clue"
 
   - present_title: "Gizmo decoration"
     day: 3
-    present_text: ""
+    present_text: "I think the next gift is the best one yet. Whatever you do, do not get it wet..."
 
   - present_title: "Mug"
     day: 4
-    present_text: ""
+    present_text: "When you raise glasses, it's time for a toast. But when you raise this gift it's time for a roast!"
 
   - present_title: "Bubblegum Bottles"
     day: 5
-    present_text: ""
+    present_text: "One half of the favours on our wedding day, todays fizzy gift will make you say yay!"
 
   - present_title: "Movie Night"
     day: 6
-    present_text: ""
+    present_text: "The popcorn is here, the vibe is just right, tonight we are having a cinema night!"
 
   - present_title: "Earrings"
     day: 7
-    present_text: ""
+    present_text: "You'll lobe this gift, if you'll pardon my pun. But what is you're favourite, the moon or the sun?"
 
   - present_title: "---"
     day: 8
@@ -40,17 +40,17 @@ list:
     day: 10
     present_text: "Yesterday's present just cannot be topped. But when you eat the next one you just won't stop"
 
-  - present_title: ""
+  - present_title: "Coffee"
     day: 11
-    present_text: ""
+    present_text: "This is a gift that you'll go through with ease, but make sure you use it at 200 degrees!"
 
   - present_title: "McDate"
     day: 12
     present_text: "I know that we're trying to lose some weight. But what if today we have a McDate?"
 
-  - present_title: ""
+  - present_title: "Jigsaw"
     day: 12
-    present_text: ""
+    present_text: "Something you can use whatever the weather. I know that is cryptic, you'll put it together!"
 
   - present_title: "Tiramisu"
     day: 14
@@ -60,33 +60,33 @@ list:
     day: 15
     present_text: "Adrenaline in my soul, every thought out of control"
 
-  - present_title: ""
+  - present_title: "Wax melt"
     day: 16
-    present_text: ""
+    present_text: "This next gift should be familiar to you. When put near a fire it smells like a brew"
+
+  - present_title: "Croc Slips"
+    day: 17
+    present_text: "Whether walking the garden or exploring the loft, this gift is an upgrade just because it is soft"
 
   - present_title: "Seychelles Bauble"
-    day: 17
+    day: 18
     present_text: "This little gift is sure to delight. It's small and it's fragrant, and suitably white!"
 
-  - present_title: ""
-    day: 18
-    present_text: ""
-
-  - present_title: ""
+  - present_title: "Cider"
     day: 19
-    present_text: ""
-
-  - present_title: ""
-    day: 20
-    present_text: ""
+    present_text: "We're this far in, and surely you'd think. At this point surely we're due for a drink!"
 
   - present_title: "Candle"
-    day: 21
+    day: 20
     present_text: "This is the one gift I may not get right. I guess we'll find out when you set it alight"
+
+  - present_title: "Costa"
+    day: 21
+    present_text: "What do you think we're doing for dinner? If you said Costa , congrats you're a winner!"
 
   - present_title: "Pink Moscato"
     day: 22
-    present_text: "I hope that your last week has been fine. What says Friday better than wine?"
+    present_text: "I hope that your last week at work has been fine. But what says Friday better than wine?"
 
   - present_title: ""
     day: 23
@@ -120,7 +120,7 @@ list:
     day: 30
     present_text: "I expect that this morning you'll be feeling like shit. Luckily Birthmas does hangover kits"
 
-  - present_title: "So that was Birthmas, I hope that it rocked! But what set of presents doesn't have socks?!"
+  - present_title: "Socks"
     day: 31
-    present_text: "Socks"
+    present_text: "So that was Birthmas, I hope that it rocked! But what set of presents doesn't have socks?!"
 
