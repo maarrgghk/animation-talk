@@ -28,9 +28,9 @@ list:
     day: 7
     present_text: "You'll lobe this gift, if you'll pardon my pun. But what is you're favourite, the moon or the sun?"
 
-  - present_title: "---"
+  - present_title: "Hamilton Bevs"
     day: 8
-    present_text: ""
+    present_text: "I couldn't find a gift today, although I had a gander. So i'm buying you a drink while you watch Lin-Manuel Miranda"
 
   - present_title: "Lucias"
     day: 9
@@ -49,7 +49,7 @@ list:
     present_text: "I know that we're trying to lose some weight. But what if today we have a McDate?"
 
   - present_title: "Jigsaw"
-    day: 12
+    day: 13
     present_text: "Something you can use whatever the weather. I know that is cryptic, you'll put it together!"
 
   - present_title: "Tiramisu"
@@ -88,29 +88,29 @@ list:
     day: 22
     present_text: "I hope that your last week at work has been fine. But what says Friday better than wine?"
 
-  - present_title: ""
+  - present_title: "Popsocket"
     day: 23
-    present_text: ""
+    present_text: "As you get older, you might lose your grip. So here is a gift so you phone never slips!"
 
-  - present_title: ""
+  - present_title: "Keyring"
     day: 24
-    present_text: ""
+    present_text: "The day before Christmas, exciting for some! So here is a gift you would show to your mum"
 
   - present_title: "Christmas"
     day: 25
     present_text: "Merry Christmas! Birthmas has a day off today"
 
-  - present_title: ""
+  - present_title: "Nail stickers"
     day: 26
-    present_text: ""
+    present_text: "Christmas tried to take over but Birthmas prevails! So here is a gift you can put on your nails."
 
-  - present_title: ""
+  - present_title: "Cheese board"
     day: 27
-    present_text: ""
+    present_text: "Here is a gift you'll devour with ease - so break out the crackers, it's time for some cheese!"
 
-  - present_title: ""
+  - present_title: "30 todo when you're 30"
     day: 28
-    present_text: ""
+    present_text: "So here it is - the last day of your twenties. But the fun isn't over, the good times are still plenty"
 
   - present_title: "Neon Sign"
     day: 29
@@ -122,5 +122,5 @@ list:
 
   - present_title: "Socks"
     day: 31
-    present_text: "So that was Birthmas, I hope that it rocked! But what set of presents doesn't have socks?!"
+    present_text: "So that was Birthmas, I hope that it rocked! But what set of presents does not contain socks?!"
 
