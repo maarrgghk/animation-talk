@@ -1,0 +1,51 @@
+---
+title: Animation timing
+---
+
+<section>
+	<h1>A quick aside on<br>animation timing</h1>
+
+
+	<div class="side-by-side-block">
+
+		<div class="animation-rows">
+			<div>
+				<p>Linear</p>
+				<span class="ball ball--small linear-horizontal"></span>
+			</div>
+			<div>
+				<p>Ease (default)</p>
+				<span class="ball ball--small ease-horizontal"></span>
+			</div>
+			<div>
+				<p>Ease in</p>
+				<span class="ball ball--small ease-in-horizontal"></span>
+			</div>
+		</div>
+		<div class="animation-rows">
+			<div>
+				<p>Ease out</p>
+				<span class="ball ball--small ease-out-horizontal"></span>
+			</div>
+			<div>
+				<p>Ease-in-out</p>
+				<span class="ball ball--small ease-in-out-horizontal"></span>
+			</div>
+			<div>
+				<p>Cubic Bezier</p>
+				<span class="ball ball--small bezier-horizontal"></span>
+			</div>
+		</div>
+	</div>
+
+	<div class="code-block">
+		<p>.linear-horizontal {animation-timing-function: linear;}</p>
+		<p>.ease-horizontal {animation-timing-function: ease;}</p>
+		<p>.ease-in-horizontal {animation-timing-function: ease-in;}</p>
+		<p>.ease-out-horizontal {animation-timing-function: ease-out;}</p>
+		<p>.ease-in-out-horizontal {animation-timing-function: ease-in-out;}</p>
+		<p>.bezier-horizontal {animation-timing-function: cubic-bezier(0.68,-0.55,0.27,1.55);}</p>
+	</div>
+
+	<a href="/cubic-bezier.html" class="button">Continue</a>
+</section>

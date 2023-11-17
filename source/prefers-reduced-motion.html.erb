@@ -1,0 +1,24 @@
+---
+title: Important note
+---
+
+<section>
+	<h1>Important note</h1>
+
+	<div class="copy-block">
+		<p>If you're using animation on your site, consider using prefers-reduced-motion on your site to disable animation for those who request it.</p>
+		<p><strong>Moving content can trigger disorientation and nausea for some users, so be mindful of them.</strong></p>
+		<p>Also using animation the wrong way can look <span class="tacky">tacky!</span></p>
+	</div>
+
+	<div class="code-block">
+		<p>@media (prefers-reduced-motion) {</p>
+		<p class="indent" data-indent="1">* {</p>
+			<p class="indent" data-indent="2">animation: none !important;</p>
+			<p class="indent" data-indent="2">transition: none !important;</p>
+		<p class="indent" data-indent="1">}</p>
+		<p>}</p>
+	</div>
+
+	<a href="/real-title.html" class="button">Continue</a>
+</section>
